@@ -1,0 +1,12 @@
+First made the index.html, Style.css and the quiz.js
+In Index.html wrote the code gave the linking and made the body and div
+first made the container for the app 
+gave the proper width and height for the appropriate devices ex: laptops, mobile phones, etc;
+created the classs and gave the attributes and id in the index
+and in the styles.css gave the paddins and margins 
+created the body gave the font,fonts size,height etc;
+made the question container
+Created the button and gave the btn hover function and the button grid 
+made two button start btn and next btn
+gave the controles
+made hide class and display:none
